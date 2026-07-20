@@ -23,7 +23,7 @@ Download the dependencies using the Windows terminal:
 
 Note:
 
-To execute, simply run this command using the Windows terminal or VS Code terminal in the folder where the files are located, and remember to reference the .lf file inside the
+To execute, simply run this command using the Windows terminal in the folder where the files are located, and remember to reference the .lf file inside the
 
 ```python main.py nome_arquivo.lf```
 
