@@ -11,7 +11,7 @@ Note:
 Download the Lucida-Flow repository into a folder using the Windows terminal:
 
 ```
-git clone https://github.com/marconeed/Lucida-Flow
+git clone https://github.com/QOrigin/Lucida-Flow
 cd Lucida-Flow
 ```
 
